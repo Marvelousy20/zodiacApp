@@ -14,6 +14,8 @@ The following technologies were used:
 •NodeJS
 •Express
 
+## Check out the app
+https://myzodiacapp.herokuapp.com/
 
 
 
